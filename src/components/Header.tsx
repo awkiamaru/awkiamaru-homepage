@@ -13,7 +13,7 @@ export const Header = () => (
     position="fixed"
     as="nav"
     w="100%"
-    bg={useColorModeValue('#ffffff38', '#20202380')}
+    bg={useColorModeValue('#ffffff38', '#12121224')}
     css={{ backdropFilter: 'blur(10px)' }}
     zIndex={2}
     paddingY="4"
