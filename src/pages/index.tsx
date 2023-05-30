@@ -57,8 +57,20 @@ export default function Home() {
             Work Experience
           </Heading>
           <Experience
+            href="https://www.caju.com.br"
+            side="2023 - present"
+            title="Caju - Software Engineer"
+            desc={`
+            As a software engineer at Caju, 
+            I work on the team responsible for developing the product that offers benefits to companies.
+            I focus on the backend, building a new scalable and
+            resilient ecosystem to integrate into Caju's products.
+            `}
+            stack="Scala · ZIO · TypeScript · React.js · MySQL · Docker · AWS · Github Actions(CI/CD)"
+          />
+          <Experience
             href="https://www.marvin.com.vc"
-            side="2022 - present"
+            side="2021 - 2023"
             title="Marvin - Software Development Engineer"
             desc={`
             As a software development engineer, I participate in the area that is responsible 
